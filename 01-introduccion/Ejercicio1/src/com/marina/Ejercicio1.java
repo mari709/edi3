@@ -4,7 +4,7 @@ public class Ejercicio1 {
 	
 	public static void main(String[] args) {
 			
-			//DECLARACIÓN Y ASIGNACION 
+			//DECLARACIÃ“N Y ASIGNACION 
 			int N = 100;
 			double A = 2.55;
 			char C = 'M';
@@ -20,8 +20,8 @@ public class Ejercicio1 {
 			//IMPRIME LA DIFERENCIA A - N
 			System.out.println("A-N= " + (A-N));
 			
-			//IMPRIME VALOR NUMERICO DE VARIBLE C
-			System.out.println("Valor numerico de C es " + (int)C);
+			//IMPRIME VALOR NUMERICO DE VARIABLE C
+			System.out.println("Valor numerico de variable C es " + (int)C);
 			
 	}
 
